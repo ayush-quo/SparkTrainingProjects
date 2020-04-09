@@ -1,4 +1,4 @@
-package com.quovantis.practice.customerInsights
+package com.quovantis.practice.customerInsights.rdd
 
 import org.apache.spark.SparkContext
 import org.apache.log4j._
